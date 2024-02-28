@@ -1,0 +1,3 @@
+email: lucas@gmail.com|password: apu@1234|contactnumber: 0123298962|address: 5,5,5 56700 kl selangor
+email: newlucas@gmail.com|password: apu@1234|contactnumber: 01293474|address: 123 123 123
+email: drmasrina@gmail.com|password: drmasrina@1234|contactnumber: 01238474|address: 5, ddd 444 ee 67000 Malaysia Selangor

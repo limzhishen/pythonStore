@@ -1,0 +1,12 @@
+lucas@gmail.com:FRC0001:Apples
+lucas@gmail.com:FRC0002:Lettuce
+lucas@gmail.com:FRC0003:ChickenEggs
+lucas@gmail.com:FRC0004:Lettuce
+lucas@gmail.com:FRC0005:Lettuce
+lucas@gmail.com:FRC0006:ChickenEgg
+lucas@gmail.com:FRC0007:Lettuce
+lucas@gmail.com:FRC0008:DuckEggs
+lucas@gmail.com:FRC0009:Tomatoes
+lucas@gmail.com:FRC0009:Rice
+lucas@gmail.com:FRC0010:Salt
+drmasrina@gmail.com:FRC0011:Lettuce
