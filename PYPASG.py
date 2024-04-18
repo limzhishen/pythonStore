@@ -21,6 +21,7 @@ Select Your Choice
 3. Browse as Guest
 4. Exit
 
+Please enter your Choice: 
 '''
 # Choices for MEMBERS to pick after login
 ScreenTwo = '''
@@ -31,6 +32,7 @@ Select Your Choice
 4. Main Menu
 5. Exit
 
+Please enter your Choice: 
 '''
 # Choices for ADMIN to use after authorized
 ScreenTwoAdmin = '''
@@ -42,6 +44,7 @@ Select Your Choice
 5. Main Menu
 6. Exit
 
+Please enter your Choice: 
 '''
 # Choices for GUEST to use
 ScreenTwoGuest = '''
@@ -51,6 +54,7 @@ Select Your Choice
 3. Main Menu
 4. Exit
 
+Please enter your Choice: 
 '''
 # Choices for MEMBERS after S2 Complete to use
 ScreenThreeMember = '''
@@ -59,6 +63,7 @@ Select Your Choice to be redirected to
 2. Member's Selection Page
 3. Exit
 
+Please enter your Choice: 
 '''
 # Choices for ADMIN after S2 Complete to use
 ScreenThreeAdmin = '''
@@ -67,6 +72,7 @@ Select Your Choice to be redirected to
 2. Admin's Selection Page
 3. Exit
 
+Please enter your Choice: 
 '''
 # Choices for GUESTS after S2 Complete to use
 ScreenThreeGuest = '''
@@ -75,6 +81,7 @@ Select Your Choice to be redirected to
 2. Guest's Selection Page
 3. Exit
 
+Please enter your Choice: 
 '''
 #Choices for MEMBERS after looking at products
 ScreenThreeProductMEMBER = '''
@@ -84,6 +91,7 @@ Select Your Choice
 3. Member's Selection Page
 4. Exit
 
+Please enter your Choice: 
 '''
 #Choices for ADMINS after looking at products
 ScreenThreeProductADMIN = '''
@@ -95,6 +103,7 @@ Select Your Choice
 5. Admin's Selection Page
 6. Exit
 
+Please enter your Choice: 
 '''
 
 # Screen 1 Checking of choices made by user then redirecting to other dedicated functions
@@ -688,4 +697,5 @@ def DONECheckGuest():
         time.sleep(2)
         exit()
 
+#Main Flow cannot use method hhhhhhh
 S1ChoiceCheck()
